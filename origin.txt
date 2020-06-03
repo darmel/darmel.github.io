@@ -1,0 +1,68 @@
+Uri: https://www.juegosdememoriagratis.com/adultos/02-medianos/m-peliculas2.html
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\02-medianos\m-peliculas2.html
+Content Type: text/html
+
+Uri: https://www.juegosdememoriagratis.com/adultos/css-juegos/memo20-pelis-2.css
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\css-juegos\memo20-pelis-2.css
+Content Type: text/css
+
+Uri: https://www.juegosdememoriagratis.com/css/1-sitio.css
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\css\1-sitio.css
+Content Type: text/css
+
+Uri: https://www.juegosdememoriagratis.com/css/2-juegos-comun.css
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\css\2-juegos-comun.css
+Content Type: text/css
+
+Uri: https://www.juegosdememoriagratis.com/css/0-no-color-tap.css
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\css\0-no-color-tap.css
+Content Type: text/css
+
+Uri: https://www.juegosdememoriagratis.com/adultos/02-medianos/m-peliculas1.html
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\02-medianos\m-peliculas1.html
+Content Type: text/html
+
+Uri: https://www.juegosdememoriagratis.com/adultos/02-medianos/m-peliculas3.html
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\02-medianos\m-peliculas3.html
+Content Type: text/html
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.juegosdememoriagratis.com/img-menu/juegos-de-memoria.png
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\img-menu\juegos-de-memoria.png
+Content Type: image/png
+
+Uri: https://www.juegosdememoriagratis.com/img-menu/menu.png
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\img-menu\menu.png
+Content Type: image/png
+
+Uri: https://www.juegosdememoriagratis.com/adultos/images/20/20-juego-memotest-peliculas-2.jpg
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\images\20\20-juego-memotest-peliculas-2.jpg
+Content Type: image/jpeg
+
+Uri: https://code.jquery.com/jquery-1.7.min.js
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\jquery-1.7.min.js
+Content Type: application/javascript
+
+Uri: https://www.juegosdememoriagratis.com/adultos/js/memo20-pelis.js
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\js\memo20-pelis.js
+Content Type: application/javascript
+
+Uri: https://www.juegosdememoriagratis.com/adultos/css-juegos/memo20-pelis-1.css
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\css-juegos\memo20-pelis-1.css
+Content Type: text/css
+
+Uri: https://www.juegosdememoriagratis.com/adultos/images/20/20-juego-memoria-peliculas-1.jpg
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\images\20\20-juego-memoria-peliculas-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.juegosdememoriagratis.com/adultos/css-juegos/memo20-pelis-3.css
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\css-juegos\memo20-pelis-3.css
+Content Type: text/css
+
+Uri: https://www.juegosdememoriagratis.com/adultos/images/20/20-juego-memoria-peliculas-3.jpg
+File Name: C:\Users\Darmel\Downloads\memoritas\www.juegosdememoriagratis.com\adultos\images\20\20-juego-memoria-peliculas-3.jpg
+Content Type: image/jpeg
+

@@ -1,0 +1,224 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	padding:0;
+	margin:0;
+}
+
+body{
+	line-height: 1;
+	background-color: #545554;
+	text-align: center;
+	font-family: Amaranth, sans-serif;
+	
+}
+
+h1{
+		font-size: 1em;
+		color: #d5bd5d;
+}
+h2{
+		font-size: 1em;
+		color: #f5ad51;
+	padding-top: 10px;
+}
+
+
+#container{
+	
+	background-color: #333333;
+	margin-top: 10px;
+
+	margin-right: auto;
+	margin-left: auto;
+	width: 350px;
+	height: 460px;
+	
+}
+
+#juego-20{
+	text-align:center;
+	width:344px;
+	height:430px;
+	background-color:#999966;
+	padding-left: 6px;
+	padding-top: 6px;
+
+}
+
+#gameStats p#timer{
+	font-weight: bold;
+	font-size: 1em;
+	padding-top: 0px;
+}
+#cards {
+	position: relative;
+	width: 350px;
+	height: 460px;
+	display: none;
+}
+/* Define the 3D perspective view and dimension of each card. */
+.card {
+	-webkit-perspective: 600;
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	-moz-transition: all .3s;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+	cursor: pointer;
+}
+
+#gameIntro {
+	padding: 30px 0;
+	text-align: center;
+	height: 70px;
+}
+
+#gameIntro a.button {
+	background: #ffcc00;
+	border-radius: 45px;
+	display: block;
+	font-size: 2em;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	width: 150px;
+	border: 3px solid #565656;
+	color:#565656;
+	text-decoration:none;
+}
+
+
+#gameComplete {
+	padding: 30px 0;
+	text-align: center; 
+	height: 30px;
+}
+
+#gameComplete p {
+	font-size: 2em;
+	text-align: center; 
+}
+#gameComplete a.button {
+	background: #ffcc00;
+	border-radius: 45px;
+	display: block;
+	font-size: 0.7em;
+	margin: 50px auto 0;
+	padding: 10px;
+	width: 250px;
+	border: 3px solid #cc3300;
+	color:#cc3300;
+	text-decoration:none;
+}
+
+
+#gameComplete a.volverMenu {
+	background: #ffcc00;
+	border-radius: 45px;
+	display: block;
+	font-size: 0.7em;
+	margin: 20px auto 0;
+	padding: 10px;
+	width: 250px;
+	border: 3px solid #565656;
+	color:#565656;
+	text-decoration:none;
+}
+
+
+#gameComplete p#top {
+	margin: 100px 0 0;
+	font-size: 20px;
+	color:#006438;
+}
+
+
+.face {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	-webkit-transition-property: opacity, transform, box-shadow;
+	-webkit-transition-duration: .3s;
+	-webkit-backface-visibility: hidden;
+}
+
+.front {
+	background: url(../images/20-peliculas-2.jpg) -400px 0;
+	z-index: 10;
+}
+.back {
+	background: #efefef url(../images/20-peliculas-2.jpg);
+	-webkit-transform: rotate3d(0,1,0,-180deg);
+	z-index: 8;
+}
+.card:hover .face, .card-flipped .face {
+	-webkit-box-shadow: 0 0 10px #aaa;
+}
+.card-flipped .front {
+	-webkit-transform: rotate3d(0,1,0,180deg);
+	z-index: 8;
+}
+.card-flipped .back {
+	-webkit-transform: rotate3d(0,1,0,0deg);
+	z-index: 10;
+}
+.card-removed {
+	opacity: 0;
+}
+
+.carta01 {background-position: 0 0;}
+.carta02 {background-position: -80px 0;}
+.carta03 {background-position: -160px 0;}
+.carta04 {background-position: -240px 0;}
+.carta09 {background-position: -320px 0;}
+
+.carta05 {background-position: 0 80px;}
+.carta06 {background-position: -80px 80px;}
+.carta07 {background-position: -160px 80px;}
+.carta08 {background-position: -240px 80px;}
+.carta10 {background-position: -320px 80px;}
+
+
+
+#linkBack a.button {
+	background: white;
+	border-radius: 5px;
+	display: block;
+	font-size: 30px;
+	margin: 30px auto 0;
+	padding: 10px;
+	width: 250px;
+	border: 3px solid #006438;
+	color:#006438;
+	text-decoration:none;
+}
+
+
+#menu {
+	margin-top: 10px;
+	margin-bottom: 30px;
+
+}
+
+#menu a{
+	font-size: 1.5em;
+	color: #d5bd5d;
+	text-decoration: none;
+}
+
+p{
+	color: #dcd9d5;
+	margin-top: 10px;
+	font-size: 1em;
+}
+
+a{
+	color: #FFCC00;
+	font-weight: bold;
+	font-size: 16px;
+}
+.espacio{clear:both;height:10px;}
+.clearfloat {clear:both; height:0; font-size: 1px; line-height: 0px;}
