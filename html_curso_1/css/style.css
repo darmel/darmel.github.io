@@ -73,6 +73,7 @@ nav{
 
 .enlaces-header{
     font-weight: 300;
+    transition: ease-in-out 0.5s;
 }
 
 .nav .enlaces-header a{
@@ -532,7 +533,28 @@ footer{
     }
 
     .enlaces-header{
-        display: none;
+        position: fixed;
+        background: #2193b0;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: space-evenly;
+        clip-path: circle(0.4% at 100% 0);
+    }
+
+    .nav .menudos{
+        clip-path: circle(150.5% at 100% 0);
+
+    }
+
+    .nav .enlaces-header a{
+        font-weight: bold;
     }
 
     .hamburguer{
@@ -575,7 +597,5 @@ footer{
         width: 95%;
         margin-bottom: 40px;
     }
-
-
 
 }
