@@ -32,8 +32,10 @@ function calcular() {
             break;
         case "kg":
             var i = precioPorunidad1 * 1;
+
             document.getElementById("precioPorKg1").textContent = "el precio es $" + i + " por kg";
             document.getElementById("precioPorg1").textContent = "el precio es $" + i / 1000 + " por g";
             break;
+        //falta para l (litros) y u (unidadaes)
     }
 }
